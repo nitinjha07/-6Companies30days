@@ -1,6 +1,6 @@
-# 6Companies30Days Challenge
+# #6Companies30days Challenge
 
-Welcome to my repository for the **6Companies30Days** challenge! 🎉  
+Welcome to my repository for the **#6Companies30days** challenge! 🎉  
 This repository is dedicated to solving 15 questions every 5 days, over a span of 30 days, to strengthen my Data Structures and Algorithms (DSA) skills. The problems are carefully selected from top tech companies like **Amazon**, **Microsoft**, **Walmart**, **Google**, **Atlassian**, and **Goldman Sachs**, and are commonly asked in coding interviews and online assessments.
 
 
