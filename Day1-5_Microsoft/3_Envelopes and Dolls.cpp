@@ -34,3 +34,6 @@ public:
         return lis(envelopes);
     }
 };
+
+//Time complexity: O(nlogn)
+//Space complexity: O(n)

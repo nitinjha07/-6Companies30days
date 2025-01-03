@@ -32,6 +32,9 @@ public:
     }
 };
 
+//Time Complexity: O(n*m)
+//Space Complexity: O(n*m)
+
 //Approach 2
 class Solution {
 public:
@@ -102,3 +105,6 @@ public:
         return img;
     }
 };
+
+//Time Complexity: O(n*m)
+//Space Complexity: O(m)
