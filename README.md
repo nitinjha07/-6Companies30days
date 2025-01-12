@@ -22,8 +22,8 @@ The challenge aims to prepare participants for real-world coding interviews and 
 You can follow my progress here in this repository. I'll be committing solutions regularly as I move through the 30-day journey.
 
 - **Day 1-5:** Completed 🔥
-- **Day 6-10:** In Progress 🔄
-- **Day 11-15:** Not Started ⏳
+- **Day 6-10:** Completed 🔥
+- **Day 11-15:** In Progress 🔄
 - **Day 16-20:** Not Started ⏳
 - **Day 21-25:** Not Started ⏳
 - **Day 26-30:** Not Started ⏳
