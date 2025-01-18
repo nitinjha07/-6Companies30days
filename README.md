@@ -23,8 +23,8 @@ You can follow my progress here in this repository. I'll be committing solutions
 
 - **Day 1-5:** Completed 🔥
 - **Day 6-10:** Completed 🔥
-- **Day 11-15:** In Progress 🔄
-- **Day 16-20:** Not Started ⏳
+- **Day 11-15:** Completed 🔥
+- **Day 16-20:** In Progress 🔄
 - **Day 21-25:** Not Started ⏳
 - **Day 26-30:** Not Started ⏳
 
