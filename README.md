@@ -26,7 +26,7 @@ You can follow my progress here in this repository. I'll be committing solutions
 - **Day 11-15:** Completed 🔥
 - **Day 16-20:** Completed 🔥
 - **Day 21-25:** Completed 🔥
-- **Day 26-30:** In Progress 🔄
+- **Day 26-30:** Completed 🔥
 
 Feel free to check my progress and contribute if you'd like!
 
